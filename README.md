@@ -1,4 +1,4 @@
-# <a id="epstein-files-feb-02-2026"></a>Epstein Files Feb 8, 2026
+# <a id="epstein-files-feb-02-2026"></a>Epstein Files Feb 11, 2026
 
 ## <a id="dataset-status-dashboard"></a>Dataset Status Dashboard
 
@@ -759,7 +759,21 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
 
 #### Sources (Pick One or Combine)
 
-##### Source A — u/FuckThisSite3's _MORE Complete_ DataSet 9 (143 GB / 180 GB)
+#### Source A — @t-wilis' reconstruction _even more complete DataSet 9 (verifying,tbu GB / 180 GB) *recommend*
+
+* **Torrent Magnet:**
+  **[LINK](magnet:?xt=urn:btih:9c1f0a021459938e2446310beea5e43a17509a19&xt=urn:btmh:122076e576d49af5705f53b768621d85232c36452d4777ed23f10c18c72bb9fe109c&dn=dataset9_reconstructed_20260110.tar.zst&xl=181137604550&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
+
+  ```text
+  magnet:?xt=urn:btih:9c1f0a021459938e2446310beea5e43a17509a19&xt=urn:btmh:122076e576d49af5705f53b768621d85232c36452d4777ed23f10c18c72bb9fe109c&dn=dataset9_reconstructed_20260110.tar.zst&xl=181137604550&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+  ```
+
+* **SHA256:** _pending_
+
+* **Notes:** *file contents unverified, posted to assist with seeding as this seems to be the most complete set thus far*
+
+
+##### Source B — u/FuckThisSite3's _MORE Complete_ DataSet 9 (143 GB / 180 GB)
 
 * **Torrent Magnet:**
   **[LINK](magnet:?xt=urn:btih:5b50564ee995a54009fec387c97f9465eb18ba00&dn=dataset-9_by_fuckthissite3.tar&xl=148072017920)**
@@ -772,7 +786,8 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
 
 * **Notes:** *Contains ~2,308 NATIVES, ~252,169 PDFs
 
-##### Source B — ym's compiled flattened PDFs (VERY SLOW) (94.58 GB / 180 GB)
+
+##### Source C — [ym's](https://github.com/yung-megafone) compiled flattened PDFs (VERY SLOW) (94.58 GB / 180 GB)
 
 * **Torrent Magnet:**
   **[LINK](magnet:?xt=urn:btih:286060d26392042a5e2b5354d09ec7c7c5cee7dc&dn=dataset-09%20%28Incomplete%29&xl=101565025420&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
