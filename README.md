@@ -1,4 +1,4 @@
-# <a id="epstein-files-feb-18-2026"></a>Epstein Files Feb 18, 2026
+# <a id="epstein-files-feb-21-2026"></a>Epstein Files Feb 21, 2026
 
 ---
 
@@ -36,11 +36,12 @@ Quick availability overview of all currently indexed datasets:
 
 ---
 
-This repository is a community **mirror + indexing project** for the **Jan 30, 2026** Epstein Files data release published by the **U.S. Department of Justice**.
+This repository is a community **mirror + indexing project** for the **Epstein Files** data releases published by the **U.S. Department of Justice**.
 
 The original release is distributed across many separate `.zip` archives. Community archivists have since produced **torrent magnets** and **Internet Archive mirrors** to make the data easier to preserve, resume, verify, and distribute long-term.
 
 **Goal:** provide a stable public index of download methods (DOJ + torrent + mirrors), especially if links break, files disappear, or servers throttle/cut off transfers.  
+
 **How to help:** seed torrents, mirror responsibly, and verify hashes when provided.
 
 **Initial Inspiration (DataHoarder):**  
@@ -353,11 +354,6 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 ---
 
-> [!WARNING]  
-> For copyparty resources, please do not use more than 1 connection while downloading a file, thank you.
-
----
-
 <!-- ========================================================= -->
 
 <!-- ====================== DATA SETS ========================= -->
@@ -393,15 +389,17 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   magnet:?xt=urn:btih:10d451428ac43a98f2eff06ce256231b8eba7bed&dn=VOL00001&xl=1329247376
   ```
 
-    **Alt:**
-    **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%201.zip)**
-
-  ```text
-  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%201.zip
-  ```
-
   **SHA256:** 6aca077cf08065e8341e0627b5affd38bd39a28599604bdaeb852de2869f76ee
 
+  
+* **GeekenDev's Original DOJ Mirror:**
+  **[LINK](https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%201.zip)**
+
+  ```text
+  https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%201.zip
+  ```
+
+  **SHA256:** 26CF803105093FDC69A34EC1EF2C43E274771AC7DD1BB4A5E89027622AFA0355
 
 #### Notes
 
@@ -437,14 +435,17 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   magnet:?xt=urn:btih:dd6b5cac7991d34625e4eea1fb2c295c6fbd3adc&dn=VOL00002&xl=662334369
   ```
 
-    **Alt:**
-  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%202.zip)**
+  **SHA256:** 62cf3dc6653b62f38171bb1f3771876da4bdc4aa20cae7d24bd12717169723f0
+
+* **GeekenDev's Original DOJ Mirror:**
+  **[LINK](https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%202.zip)**
 
   ```text
-  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%202.zip
+  https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%202.zip
   ```
 
-  **SHA256:** 62cf3dc6653b62f38171bb1f3771876da4bdc4aa20cae7d24bd12717169723f0
+    **SHA256:** 62CF3DC6653B62F38171BB1F3771876DA4BDC4AA20CAE7D24BD12717169723F0
+
 
 #### Notes
 
@@ -479,15 +480,18 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   ```text
   magnet:?xt=urn:btih:3f5923fefc496e394fc1fd553f9d3a1c4242789c&dn=VOL00003&xl=628519331
   ```
+  
+    **SHA256:** 160231C8C689C76003976B609E55689530FC4832A1535CE13BFCD8F871C21E65
 
-    **Alt:**
-  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%203.zip)**
+* **GeekenDev's Original DOJ Mirror:**
+  **[LINK](https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%203.zip)**
 
   ```text
-  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%203.zip
+  https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%203.zip
   ```
-
-  **SHA256:** 160231c8c689c76003976b609e55689530fc4832a1535ce13bfcd8f871c21e65
+  
+    **SHA256:** 160231C8C689C76003976B609E55689530FC4832A1535CE13BFCD8F871C21E65
+      
 
 #### Notes
 
@@ -523,14 +527,15 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   magnet:?xt=urn:btih:6fc5aede157615f08335568efbf459b537001756&dn=VOL00004&xl=375905556
   ```
 
-    **Alt:**
-  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%204.zip)**
+  **SHA256:** e78948690c22b904d6b79afe92a4eb1d7abb8e746b0d025123826ebee0df8273
+  
+* **GeekenDev's Original DOJ Mirror:**
+  **[LINK](https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%204.zip)**
 
   ```text
-  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%204.zip
+  https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%204.zip
   ```
-
-  **SHA256:** e78948690c22b904d6b79afe92a4eb1d7abb8e746b0d025123826ebee0df8273
+    **SHA256:** E78948690C22B904D6B79AFE92A4EB1D7ABB8E746B0D025123826EBEE0DF8273
 
 #### Notes
 
@@ -566,14 +571,16 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   magnet:?xt=urn:btih:9e3dd82b77f2c7264b0ef13f87f31a5c3c291046&dn=VOL00005&xl=64579973
   ```
 
-    **Alt:**
-  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%205.zip)**
+  **SHA256:** eeda87e747487d718e35b661d2d078ff08f0b0e80107c5f498fce17ae4f298ba
+
+* **GeekenDev's Original DOJ Mirror:**
+  **[LINK](https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%205.zip)**
 
   ```text
-  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%205.zip
+  https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%205.zip
   ```
 
-  **SHA256:** eeda87e747487d718e35b661d2d078ff08f0b0e80107c5f498fce17ae4f298ba
+    **SHA256:** EEDA87E747487D718E35B661D2D078FF08F0B0E80107C5F498FCE17AE4F298BA
 
 #### Notes
 
@@ -609,14 +616,16 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   magnet:?xt=urn:btih:6d1792e4d04d814bbbf0ed06e70ee72b92b5544f&dn=VOL00006&xl=55600717
   ```
 
-    **Alt:**
-  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%206.zip)**
+  **SHA256:** 4ed74dcce6d7f7fd1b7b298d76de2f5e6eaca190562f8310ca5011b354314785
+  
+* **GeekenDev's Original DOJ Mirror:**
+  **[LINK](https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%206.zip)**
 
   ```text
-  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%206.zip
+  https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%206.zip
   ```
 
-  **SHA256:** 4ed74dcce6d7f7fd1b7b298d76de2f5e6eaca190562f8310ca5011b354314785
+    **SHA256:** 4ED74DCCE6D7F7FD1B7B298D76DE2F5E6EACA190562F8310CA5011B354314785
 
 #### Notes
 
@@ -652,14 +661,16 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   magnet:?xt=urn:btih:101b10571e0b2edc2496f72a831c865ec6a3c070&dn=VOL00007&xl=103060624
   ```
 
-    **Alt:**
-  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%207.zip)**
+  **SHA256:** 51e1961b3bcf18a21afd9bcf697fdb54dac97d1b64cf88297f4c5be268d26b8e
+  
+* **GeekenDev's Original DOJ Mirror:**
+  **[LINK](https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%207.zip)**
 
   ```text
-  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%207.zip
+  https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%207.zip
   ```
 
-  **SHA256:** 51e1961b3bcf18a21afd9bcf697fdb54dac97d1b64cf88297f4c5be268d26b8e
+    **SHA256:** 51E1961B3BCF18A21AFD9BCF697FDB54DAC97D1B64CF88297F4C5BE268D26B8E
 
 #### Notes
 
@@ -695,14 +706,16 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   magnet:?xt=urn:btih:8dacaa3a16be77a51db1cc21fe3b0ffaca0ab116&dn=VOL00008&xl=11465535175
   ```
 
-    **Alt:**
-  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%208.zip)**
+  **SHA256:** 558010b96b7980ed529a2ad4ea224123a59446927e4441d23a2e8e5c2361ee07
+  
+* **GeekenDev's Original DOJ Mirror:**
+  **[LINK](https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%208.zip)**
 
   ```text
-  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%208.zip
+  https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%208.zip
   ```
 
-  **SHA256:** 558010b96b7980ed529a2ad4ea224123a59446927e4441d23a2e8e5c2361ee07
+    **SHA256:** 558010B96B7980ED529A2AD4EA224123A59446927E4441D23A2E8E5C2361EE07
 
 #### Notes
 *Updated torrent contains less redactions.*
@@ -722,7 +735,7 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 #### Sources
 
-##### Source A — @jeefiles' reconstructed _(even more complete)_ DataSet 9 (181.3 GB[^1] / 180 GB) *recommended*
+##### Source A — @jeefiles' reconstructed _(even more complete)_ DataSet 9 (181.3 GB[^1] / 180 GB) *(recommended)*
 
 * **Torrent Magnet:**
   **[LINK](magnet:?xt=urn:btih:50fc8133084864e15440b53dfa89cd43cda6c934&xt=urn:btmh:1220482c89a1b7e09185fdf01b2fb7e15d60fe4518425e8db6f75a5a5a2f45054f40&dn=DS9_181GB&xl=186445201408&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
@@ -734,7 +747,6 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
     **SHA256:** eb3c112a62d326e302bcfc6224cc1d31a5fff6c5f3bdf9f4ec32089511191922
 
     **Notes:** 
-
   ```text
   ## Directory Explanation
 
@@ -788,7 +800,7 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   > EFTA01135708
   
 
-  ## 10.1GB of Video Files Removed fro DOJ website, still missing. I believe these are the only files still missing from what the DOJ actually uploaded from the initial release
+  ## 10.1GB of Video Files Removed from DOJ website, still missing. I believe these are the only files still missing from what the DOJ actually uploaded from the initial release
 
   | filename | extension | full_url | content_type | content_length |
   |----------|-----------|----------|--------------|----------------|
@@ -797,6 +809,17 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   | EFTA01244749 | wmv | https://www.justice.gov/epstein/files/DataSet%209/EFTA01244749.wmv | video/x-ms-wmv | 2878425893 |
 
   ```
+
+  #### Alternative Sources
+
+  * **GeekenDev's Community Reconstructed DOJ Mirror:**
+  **[LINK](https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%209.zip)**
+
+  ```text
+  https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%209.zip
+  ```
+
+    **SHA256:** EB3C112A62D326E302BCFC6224CC1D31A5FFF6C5F3BDF9F4EC32089511191922
 
 
 #### Notes
@@ -834,14 +857,16 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   magnet:?xt=urn:btih:d509cc4ca1a415a9ba3b6cb920f67c44aed7fe1f&dn=DataSet%2010.zip&xl=84439381640
   ```
 
-    **Alt:**
-  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%2010.zip)**
+  **SHA256:** 7d6935b1c63ff2f6bcabdd024ebc2a770f90c43b0d57b646fa7cbd4c0abcf846
+  
+* **GeekenDev's Original DOJ Mirror:**
+  **[LINK](https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%2010.zip)**
 
   ```text
-  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%2010.zip
+  https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%2010.zip
   ```
 
-  **SHA256:** 7d6935b1c63ff2f6bcabdd024ebc2a770f90c43b0d57b646fa7cbd4c0abcf846
+    **SHA256:** 7D6935B1C63FF2F6BCABDD024EBC2A770F90C43B0D57B646FA7CBD4C0ABCF846
 
 #### Notes
   *Alternate sets may have less redactions*
@@ -869,14 +894,14 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 #### Alternative Sources
 
-  **Alt:**
-  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%2011.zip)**
+* **GeekenDev's Original DOJ Mirror:**
+  **[LINK](https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%2011.zip)**
 
   ```text
-  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%2011.zip
+  https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%2011.zip
   ```
 
-**SHA256:** 9714273b9e325f0a1f406063c795db32f5da2095b75e602d4c4fbaba5de3ed80
+    **SHA256:** 9714273B9E325F0A1F406063C795DB32F5DA2095B75E602D4C4FBABA5DE3ED80
     
 #### Notes
 
@@ -911,14 +936,16 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
   magnet:?xt=urn:btih:3db3fc05e2481513675a50e313333692995e19ca&dn=VOL00012&xl=125711730
   ```
 
-    **Alt:**
-  **[LINK](https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%2012.zip)**
+  **SHA256:** b5314b7efca98e25d8b35e4b7fac3ebb3ca2e6cfd0937aa2300ca8b71543bbe2
+  
+* **GeekenDev's Original DOJ Mirror:**
+  **[LINK](https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%2012.zip)**
 
   ```text
-  https://copyparty.vvv.systems/DOJ%20Epstein%20Files/justice.gov/DataSet%2012.zip
+  https://doj-files.geeken.dev/doj_zips/original_archives/DataSet%2012.zip
   ```
 
-  **SHA256:** b5314b7efca98e25d8b35e4b7fac3ebb3ca2e6cfd0937aa2300ca8b71543bbe2
+    **SHA256:** B5314B7EFCA98E25D8B35E4B7FAC3EBB3CA2E6CFD0937AA2300CA8B71543BBE2
 
 #### Notes
   *At least three files are missing from the DOJ provided zip. These are:*
